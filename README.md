@@ -19,9 +19,13 @@ npm run start
 npm run test
 ```
 # Rules
+```
 1.Paper beats Rock
+```
 2.Rock beats Scissors
+```
 3.Scissors beats Paper
+```
 
 # Game working method
 1. When the game start, we will get a option to start a new game. Y -> continue,  n or any other answer -> exit the game.
