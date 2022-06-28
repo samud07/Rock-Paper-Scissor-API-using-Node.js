@@ -9,15 +9,15 @@ https://nodejs.org/en/download/
 1. Open your console and navigate to the folder. Run this before you start the game. 
 ```
 npm install
-
+'''
 2. Run this to start the game:
 ```
 npm run start
-
+'''
 3. To run the test case:
 ```
 npm run test
-
+'''
 
 # Game explaination
 1. When the game start, We will be asked choose to start a new game. Y -> continue,  n or any other answer -> exit the game.
